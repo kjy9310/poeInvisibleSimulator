@@ -3,7 +3,6 @@ import React from 'react';
 function Inputs({data, callback, style}) {
     const setValues = (event)=>{
         const { name, value } = event.target
-        console.log(value)
         callback({
             ...data,
             [name]:isNaN(parseInt(value))?0:parseInt(value)
