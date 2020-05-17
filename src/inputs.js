@@ -26,7 +26,7 @@ function Inputs({data, callback, style}) {
             <div>
                 <label>
                     <span> temporal chain : </span>
-                    <input type="checkbox" name="curse" checked={data.curse==1} value={data.curse==1?0:1} onChange={setValues}/>
+                    <input type="checkbox" name="curse" checked={data.curse===1} value={data.curse===1?0:1} onChange={setValues}/>
                 </label>
                 <label>
                     <span> increased Curse Effectiveness : </span>
