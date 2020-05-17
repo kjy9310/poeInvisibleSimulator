@@ -13,10 +13,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "PUBLIC_URL=://cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/ react-scripts build",
+    "build": "PUBLIC_URL=//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/ react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "PUBLIC_URL=://cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/ react-scripts build && cd build && git init && git remote add origin https://github.com/kjy9310/poeInvisibleSimulator.git && git checkout -b gh-pages && git add . && git commit -m 'deploy' && git push --force --set-upstream origin gh-pages"
+    "deploy": "PUBLIC_URL=//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/ react-scripts build && cd build && git init && git remote add origin https://github.com/kjy9310/poeInvisibleSimulator.git && git checkout -b gh-pages && git add . && git commit -m 'deploy' && git push --force --set-upstream origin gh-pages"
   },
   "eslintConfig": {
     "extends": "react-app"
