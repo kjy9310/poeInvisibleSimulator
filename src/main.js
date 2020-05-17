@@ -51,7 +51,9 @@ function Main() {
         }}>
           <span
             style={{color:'MediumPurple'}}
-          > Shade Form : {parseInt(calculatedShadeFormDuration * 100)/100}s</span>
+          > 
+          <img src="https://gamepedia.cursecdn.com/pathofexile_gamepedia/a/a5/Darkness_status_icon.png"></img>
+          Shade Form : {parseInt(calculatedShadeFormDuration * 100)/100}s</span>
           <br/>
           <span
             style={{color:'LimeGreen'}}
