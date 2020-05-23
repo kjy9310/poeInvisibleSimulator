@@ -31,7 +31,7 @@ function Main() {
   } = inputs
   const calculatedShadeFormCooldown = shadeFormCooldown * (100-cooldownReduction)/100
 
-  const tempChainEffective = (curse && increasedCurseEffectiveness>50) 
+  const tempChainEffective = (curse) 
     ? 1 + 40 * (1+(increasedCurseEffectiveness-50)/100) / 100
     : 1
 
