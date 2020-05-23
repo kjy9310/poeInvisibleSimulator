@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/css/main.11c43497.chunk.css",
+    "main.js": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/main.96ae39b3.chunk.js",
+    "main.js.map": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/main.96ae39b3.chunk.js.map",
+    "runtime-main.js": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/runtime-main.de6a9438.js",
+    "runtime-main.js.map": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/runtime-main.de6a9438.js.map",
+    "static/js/2.5684c1e0.chunk.js": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/2.5684c1e0.chunk.js",
+    "static/js/2.5684c1e0.chunk.js.map": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/2.5684c1e0.chunk.js.map",
+    "index.html": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/index.html",
+    "precache-manifest.d87c16a2902a3f15d9688da184d7016c.js": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/precache-manifest.d87c16a2902a3f15d9688da184d7016c.js",
+    "service-worker.js": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/service-worker.js",
+    "static/css/main.11c43497.chunk.css.map": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/css/main.11c43497.chunk.css.map",
+    "static/js/2.5684c1e0.chunk.js.LICENSE.txt": "//cdn.jsdelivr.net/gh/kjy9310/poeInvisibleSimulator@gh-pages/static/js/2.5684c1e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de6a9438.js",
+    "static/js/2.5684c1e0.chunk.js",
+    "static/css/main.11c43497.chunk.css",
+    "static/js/main.96ae39b3.chunk.js"
+  ]
+}
