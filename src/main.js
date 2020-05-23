@@ -9,12 +9,13 @@ function Main() {
     shadeFormCooldown:45,
     increasedDuration:0,
     cooldownReduction:0,
-    curse:1,
+    curse:0,
     aspectCatDuration1:4,
     aspectCatDuration2:6,
     shadeFormIncreasedDuration:0,
     aspectCatIncreasedDuration1:0,
-    aspectCatIncreasedDuration2:0
+    aspectCatIncreasedDuration2:0,
+    increasedCurseEffectiveness:0
   })
   const {
     shadeFormDuration,
